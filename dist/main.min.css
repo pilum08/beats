@@ -1849,7 +1849,7 @@ svg path {
   background-color: #f8faf9;
   position: relative; }
   .player::after {
-    content: url("../../images/yt-pent.svg");
+    content: url("./images/yt-pent.svg");
     position: absolute;
     top: 96.5%;
     left: 80%;
